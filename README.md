@@ -26,17 +26,6 @@ To become a safe and inspiring digital space that empowers individuals to build 
 
 To provide a supportive experience that combines guidance, community support, and continuous encouragement to help users stay committed to their recovery and personal growth journey.
 
----
-
-## Brand Concept
-
-The visual identity of **MADAR** is inspired by:
-
-- **Circles and orbits** → representing continuity, connection, and emotional support.
-- **Connected hands or human figures** → symbolizing unity, support, and companionship.
-- **Negative space and bird symbolism** → expressing freedom, healing, hope, and transformation.
-
-The minimalist design approach reflects simplicity, trust, comfort, and humanity.
 
 ---
 
