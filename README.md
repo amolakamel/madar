@@ -49,3 +49,9 @@ Because everyone needs:
 
 **MADAR is not just a name.  
 It’s a journey, a support system, and a path toward balance.**
+
+## Project Documentation
+
+You can access the project explanation and documentation here:
+
+🔗 [View Project File](https://drive.google.com/drive/folders/1eXlbZR2qhS_pHJ0fwWRJ7DoMOvhyN4XJ)
