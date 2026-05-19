@@ -16,7 +16,21 @@ The name **MADAR** carries multiple meanings:
 The project is built around one core idea:
 
 > “Everyone deserves a support circle that helps them find their way back.”
-
+> 
+## Our Story : 
+- At some point in our lives, we all experience moments of confusion—times when we feel dis
+connected from ourselves without fully understanding why. We spend hours scrolling through 
+social media, consuming endless content, searching for comfort, answers, or distraction, while 
+certain habits gradually become part of our daily routine. What often starts as a simple es
+cape can slowly turn into emotional dependency or behavioral patterns that shape the way we 
+think, feel, and live.
+The idea of MADAR was born from this reality. In a world filled with pressure, overstimulation, 
+and constant judgment, there was a need for a safe space that allows individuals to pause, re
+flect, and reconnect with themselves.
+That’s why MADAR was created — a digital awareness platform powered by AI that helps in
+dividuals recognize harmful patterns, understand different forms of dependency, and build 
+healthier habits over time. MADAR does not judge or impose change; instead, it supports a 
+journey toward self-awareness, balance, and personal growth
 ---
 
 ## Vision
@@ -52,6 +66,9 @@ Because everyone needs:
 
 **MADAR is not just a name.  
 It’s a journey, a support system, and a path toward balance.**
+
+## Logo 
+
 
 ## Project Documentation
 
