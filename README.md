@@ -1,3 +1,6 @@
+<img width="369" height="407" alt="مم" src="https://github.com/user-attachments/assets/1852b01d-ab42-4fed-b084-e1c512a1f4b8" />
+
+
 # MADAR — Your Journey Has a Direction
 
 ## About The Project
