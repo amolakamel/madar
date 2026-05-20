@@ -60,6 +60,76 @@ To provide a supportive experience that combines guidance, community support, an
 -Logo Sketch 
 <img width="1433" height="631" alt="image" src="https://github.com/user-attachments/assets/bbf80d0b-9036-4851-8b52-008aa3864ae1" />
 
+-Logo Concept
+Madar logo is inspired by the idea of support, connection, and 
+healing.
+Its circular form represents the meaning of “Madar” a journey, 
+a cycle, and a safe space people return to during recovery.
+The shapes within the logo resemble people sitting together in 
+a support circle, symbolizing fellowship, understanding,
+and emotional support in the recovery process.
+The connected elements and hand-like forms represent 
+guidance, help, and human connection, reflecting that no one 
+has to face addiction alone.
+The overall circular composition also communicates continuity, 
+balance, safety, and personal growth, aligning with Madar’s 
+mission of guiding 
+individuals toward awareness, healing, and change
+
+<img width="695" height="345" alt="image" src="https://github.com/user-attachments/assets/a611bece-b088-4e06-94b9-8b3497783743" />
+
+- Process
+  <img width="1627" height="632" alt="image" src="https://github.com/user-attachments/assets/7cdaa136-a5c4-4f5b-acde-e5a95b45038a" />
+  
+  - Final Logo
+    <img width="833" height="616" alt="image" src="https://github.com/user-attachments/assets/bd1e02d7-624f-449b-90fc-21b30414303a" />
+    
+    - Clear Spacing
+
+      <img width="1227" height="493" alt="image" src="https://github.com/user-attachments/assets/e6b4c81b-f524-4d1a-a38c-dd64e75265cc" />
+      
+      - Minimum Size
+        <img width="250" height="188" alt="image" src="https://github.com/user-attachments/assets/b2ff0158-ec47-4c72-8f14-cd93a7991394" />
+        
+        - White and black
+        <img width="1758" height="787" alt="image" src="https://github.com/user-attachments/assets/27428de3-a04c-4677-8ac7-0ac159836cf3" />
+- Don’t
+• Don’t stretch or distort the logo 
+ proportions.
+• Don’t change the logo colors.
+• Don’t use colors outside the official      
+Madar palette.
+• Don’t move the “Madar” text from its  
+ original logo position.
+• Don’t place the logo on busy bac
+ grounds that reduce visibility.
+
+<img width="1096" height="630" alt="image" src="https://github.com/user-attachments/assets/2615b00e-fdfe-493c-8e80-946fda9efd15" />
+
+- Taglines
+
+<img width="1678" height="600" alt="image" src="https://github.com/user-attachments/assets/491db1bf-7a3e-4914-aef3-5c803172de3e" />
+
+## Colors
+- Identity Colors
+- <img width="685" height="668" alt="image" src="https://github.com/user-attachments/assets/95a5c0cf-ad0e-4f48-ad98-27c2693e8e57" />
+- Additional Colors
+
+  <img width="1225" height="672" alt="image" src="https://github.com/user-attachments/assets/694c1da7-441f-457b-9930-3cb982659240" />
+
+<img width="1060" height="720" alt="image" src="https://github.com/user-attachments/assets/6513d942-6065-45b2-ba6b-627654510042" />
+
+## Patterns
+
+<img width="1531" height="623" alt="image" src="https://github.com/user-attachments/assets/47fe6658-b654-4cae-998b-ec74e6543c7e" />
+
+## Typography
+
+<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/dd93f550-c967-4fe8-90d3-1638b54f2727" />
+
+<img width="1639" height="760" alt="image" src="https://github.com/user-attachments/assets/17f42d98-8960-4012-8fae-3bf43d527c30" />
+
+
 ## Why MADAR?
 
 Because everyone needs:
