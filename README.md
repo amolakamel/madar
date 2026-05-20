@@ -129,6 +129,8 @@ Madar palette.
 
 <img width="1639" height="760" alt="image" src="https://github.com/user-attachments/assets/17f42d98-8960-4012-8fae-3bf43d527c30" />
 
+## Icons
+<img width="970" height="673" alt="image" src="https://github.com/user-attachments/assets/7ed6219a-3a9a-4141-8b8d-c0715e29e569" />
 
 ## Why MADAR?
 
