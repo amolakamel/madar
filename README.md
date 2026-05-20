@@ -56,6 +56,9 @@ To provide a supportive experience that combines guidance, community support, an
 - Continuity
 
 ---
+## logo 
+-Logo Sketch 
+<img width="1433" height="631" alt="image" src="https://github.com/user-attachments/assets/bbf80d0b-9036-4851-8b52-008aa3864ae1" />
 
 ## Why MADAR?
 
